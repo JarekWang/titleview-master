@@ -5,7 +5,9 @@ Android自定义标题栏，根据不同需求统一定制标题栏，避免重�
 效果图:<br>
 ![image](https://github.com/JarekWang/titleview-master/blob/master/app/screenshot/screen_shot.png)
 <br>
-使用方式：
+<br>
+<br>
+## 使用方式：<br>
 
 ```java
 <com.jarek.title.view.TitleView
@@ -23,3 +25,5 @@ Android自定义标题栏，根据不同需求统一定制标题栏，避免重�
         title:right_text_drawable_right="@mipmap/bar_button_right"
         android:layout_height="50dp"/>
 ```
+<br>
+[我的博客](http://www.cnblogs.com/jarek/)

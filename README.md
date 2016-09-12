@@ -2,7 +2,8 @@
 
 Android自定义标题栏，根据不同需求统一定制标题栏，避免重复在xml中设置标题栏样式
 使用方式：
- /*<com.jarek.title.view.TitleView
+
+```java <com.jarek.title.view.TitleView
         android:id="@+id/title_main"
         android:layout_width="match_parent"
         android:background="#0093fe"
@@ -16,4 +17,4 @@ Android自定义标题栏，根据不同需求统一定制标题栏，避免重�
         title:left_text_drawable_left="@mipmap/back_normal"
         title:right_text_drawable_right="@mipmap/bar_button_right"
         android:layout_height="50dp"/>
-  */
+```

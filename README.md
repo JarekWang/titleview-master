@@ -1,6 +1,10 @@
 # titleview-master
 
 Android自定义标题栏，根据不同需求统一定制标题栏，避免重复在xml中设置标题栏样式<br>
+
+效果图:<br>
+![image](https://github.com/JarekWang/wechathome/blob/master/app/screenshots/GIF.gif)
+<br>
 使用方式：
 
 ```java
